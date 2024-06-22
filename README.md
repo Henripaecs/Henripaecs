@@ -12,22 +12,10 @@
 </div>
  ## Social Media
 <div style="dispaly: inline_block"><br>
-  <a href="https://github.com/Henripaecs" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://instagram.com/henripaecs/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="mailto:henriquepaesc26@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://wa.me/5531973006297" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
+  <a href="https://github.com/Henripaecs" target="_blank"><img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"target="_blank"></a>
+  <a href="https://instagram.com/henripaecs/" target="_blank"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+  <a href="mailto:henriquepaesc26@gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"target="_blank"></a>
+  <a href="https://wa.me/5531973006297" target="_blank"><img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
 </div>
 
 
