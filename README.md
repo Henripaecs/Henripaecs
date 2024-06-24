@@ -1,8 +1,14 @@
  ## Hi! My name is Henrique,
  I'm an 18-year-old Computer Science student at PUC Minas with a passion for software development, artificial intelligence, and programming. I am eager to continuously learn and explore new technologies and methods to stay current with advancements in the field.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Henripaecs&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
+    <a href="https://github.com/arthursignorini">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthursignorini&layout=compact&langs_count=7&theme=dark" style="height: 180px;"/>
+    </a>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arthursignorini&theme=dark&hide_border=false" alt="Github Stats" style="height: 180px;"/>
+</div>
+
  ## Programming languages
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="40" widht"50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />            
