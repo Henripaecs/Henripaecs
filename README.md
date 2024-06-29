@@ -1,5 +1,5 @@
  ## Hi! My name is Henrique,
- I'm an 18-year-old Computer Science student at PUC Minas with a passion for software development, artificial intelligence, and programming. I am eager to continuously learn and explore new technologies and methods to stay current with advancements in the field.
+ Sou um estudante de Ciência da Computação de 18 anos na PUC Minas, com paixão por desenvolvimento de software, inteligência artificial e programação. Estou ansioso para aprender continuamente e explorar novas tecnologias e métodos para me manter atualizado com os avanços na área.
 
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
