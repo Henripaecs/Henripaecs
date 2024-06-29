@@ -1,4 +1,4 @@
- ## Hi! My name is Henrique,
+ ## Olá! Meu nome é Henrique,
  Sou um estudante de Ciência da Computação de 18 anos na PUC Minas, com paixão por desenvolvimento de software, inteligência artificial e programação. Estou ansioso para aprender continuamente e explorar novas tecnologias e métodos para me manter atualizado com os avanços na área.
 
 
